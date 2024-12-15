@@ -1,0 +1,13 @@
+{
+    "title": "Criador de Cadernos",
+    "subtitle": "Crie cadernos personalizados com links",
+    "generate_button": "Gerar PDF",
+    "cover_label": "Estilo da Capa",
+    "paper_label": "Estilo do Papel",
+    "welcome_title": "Bem-vindo!",
+    "welcome_message": "Por favor, selecione o seu idioma:",
+    "my_notebooks_title": "Meus Cadernos",
+    "my_notebooks_message": "Aqui estão seus cadernos.",
+    "fab_create_notebook": "Criar um novo caderno"
+  }
+  

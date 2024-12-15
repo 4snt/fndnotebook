@@ -1,0 +1,12 @@
+{
+    "title": "Notebook Creator",
+    "subtitle": "Create personalized notebooks with links",
+    "generate_button": "Generate PDF",
+    "cover_label": "Cover Style",
+    "paper_label": "Paper Style",
+    "welcome_title": "Welcome!",
+    "welcome_message": "Please select your language:",
+    "my_notebooks_title": "My Notebooks",
+    "my_notebooks_message": "Here are your notebooks.",
+    "fab_create_notebook": "Create a new notebook"
+  }
